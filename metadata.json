@@ -1,0 +1,6 @@
+{
+  "name": "Rapido",
+  "description": "Bike taxi, auto, and cab ride hailing application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
